@@ -18,5 +18,9 @@ deals with creation of objects
 ## Behavioral: 
 concerned with the interaction and responsibility of objects. It should be in such a way that they can easily talk to each other and still should be loosely coupled
 ### Strategy Pattern:<br>
-- A Strategy Pattern says that "defines a family of functionality, encapsulate each one, and make them interchangeable".
+- A Strategy Pattern says that "defines a family of functionality, encapsulate them, and make them interchangeable".
 - also called Policy
+
+### Observer Pattern:<br>
+-An Observer Pattern says that "just define a one-to-one dependency so that when one object/observable subject changes state, all its dependents/subsribers/observers are notified and updated automatically"
+-also known as Dependents or Publish-Subscribe.
